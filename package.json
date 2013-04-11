@@ -1,6 +1,6 @@
 {
   "name": "introspect-reduce",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "introspect the state of a reducible",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
