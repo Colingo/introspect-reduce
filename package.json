@@ -18,17 +18,13 @@
   },
   "dependencies": {
     "process": "~0.5.0",
-    "console": "~0.4.9"
+    "console": "~0.4.9",
+    "reducible": "Raynos/reducible#v1.0.6"
   },
   "devDependencies": {
     "tape": "~0.2.2",
     "browserify": "https://github.com/raynos/node-browserify/tarball/master",
-    "testem": "~0.2.56",
-    "reducible": "~1.0.5",
-    "reducers": "git://github.com/Raynos/reducers"
-  },
-  "peerDependencies": {
-    "reducible": "Raynos/reducible#1.x"
+    "reducers": "Raynos/reducers#dedup"
   },
   "licenses": [
     {
